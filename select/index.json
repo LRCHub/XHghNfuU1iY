@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "今はいいんだよ。／まふまふ【歌ってみた】",
+  "base_artist": "Mafumafu",
+  "createdAt": "2026-04-02T20:16:59.160977Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "今はいいんだよ。",
+      "artist": "まふまふ",
+      "has_synced": false,
+      "path": "select/pl_01_今はいいんだよ。_まふまふ.txt"
+    }
+  ]
+}
